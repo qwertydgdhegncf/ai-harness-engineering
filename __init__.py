@@ -1,1 +1,1 @@
-"""Part A: an OpenRouter-compatible coding harness built from scratch."""
+"""Part C: reproducible autoresearch ML harness."""

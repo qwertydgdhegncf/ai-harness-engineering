@@ -1,0 +1,13 @@
+{
+  "name": "student-creator-mode",
+  "description": "A transparent DSH-style creator configuration for harness engineering",
+  "plugins": [
+    {"name":"filesystem","module":"part_b.plugins.filesystem"},
+    {"name":"shell","module":"part_b.plugins.shell"},
+    {"name":"git_inspector","module":"part_b.plugins.git_inspector"},
+    {"name":"test_runner","module":"part_b.plugins.test_runner"},
+    {"name":"web_research","module":"part_b.plugins.web_research"},
+    {"name":"second_brain","module":"part_b.plugins.second_brain"},
+    {"name":"project_memory","module":"part_b.plugins.project_memory"}
+  ]
+}
