@@ -66,12 +66,5 @@ Part C Research Loop --> candidate config --> train/evaluate --> metric gate
 All demos are deterministic by default. Each run records configuration, seed, metric, elapsed time, and the decision (`keep` or `discard`). This makes the result inspectable rather than a screenshot-only claim.
 
 ## Video
-
-Use [`docs/video-script.md`](docs/video-script.md) as the exact narration and [`docs/recording-checklist.md`](docs/recording-checklist.md) while recording. The final YouTube URL should be added to the top of this README before submission.
-
 **YouTube walkthrough:** _Add the unlisted/public video URL here after recording._
-
-## Academic integrity note
-
-The implementation is intentionally transparent: the core loop, tools, plugin contracts, prompts, and experiment policy are included as readable source code. External projects listed in the assignment are treated as conceptual references; this repository is an original implementation and does not copy their source.
 
