@@ -66,5 +66,5 @@ Part C Research Loop --> candidate config --> train/evaluate --> metric gate
 All demos are deterministic by default. Each run records configuration, seed, metric, elapsed time, and the decision (`keep` or `discard`). This makes the result inspectable rather than a screenshot-only claim.
 
 ## Video
-**YouTube walkthrough:** _Add the unlisted/public video URL here after recording._
+**YouTube walkthrough:** https://youtu.be/vBykHk7S3dA
 
